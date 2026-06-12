@@ -18,9 +18,4 @@ in for-links-only.py it will only show the links available on the site.
 
 in for-text-only.py it will only show the text available on the site
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/RutujaNikam497/webscraper.git
